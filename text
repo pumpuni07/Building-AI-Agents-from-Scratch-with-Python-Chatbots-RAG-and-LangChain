@@ -1,0 +1,10 @@
+torch
+transformers
+sentence-transformers
+langchain
+langchain-community
+faiss-cpu
+pandas
+numpy
+scikit-learn
+accelerate
